@@ -1,0 +1,16 @@
+# Compiled files
+*.exe
+*.o
+*.obj
+
+# Debug and build output
+bin/
+obj/
+
+# IDE temporary files
+*.layout
+*.depend
+
+# Operating system files
+Thumbs.db
+.DS_Store
